@@ -78,7 +78,7 @@ created_at
 
 ## Booking Workflow
 
--Begin
+- Begin
 - User selects an Event
 - User selects a Seat
 - The seat is locked(cached) or queued.
